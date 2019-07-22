@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ArticleDetail /> renders article details 1`] = `ShallowWrapper {}`;
+
+exports[`<ArticleDetail /> spins loader without article 1`] = `ShallowWrapper {}`;

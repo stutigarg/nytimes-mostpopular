@@ -1,0 +1,16 @@
+.listView{
+    padding-right:0;
+    padding-left:0;
+    height:100vh;
+    overflow:auto
+}
+.detailedView{
+    height:100vh;
+}
+@media (max-width: 767px) {
+   .detailedView{
+       height:50vh ;
+       padding-right:0 ;
+       padding-left:0
+   }
+ }
